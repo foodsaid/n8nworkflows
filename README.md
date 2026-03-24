@@ -79,7 +79,7 @@ Each workflow folder contains **exactly 4 files**:
 
 
 
-## 📚 Workflows Summary (8056 workflows)
+## 📚 Workflows Summary (8059 workflows)
 
 - [ AI Client Onboarding Agent: Auto Welcome Email Generator-4448](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Client%20Onboarding%20Agent%3A%20Auto%20Welcome%20Email%20Generator-4448)
 - [ AI Data Analyst Agent for Spreadsheets with NocoDB-2653](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Data%20Analyst%20Agent%20for%20Spreadsheets%20with%20NocoDB-2653)
@@ -3607,6 +3607,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Discover & Analyze TikTok Influencers with Bright Data, Claude AI & Email Outreach-4774](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Discover%20%26%20Analyze%20TikTok%20Influencers%20with%20Bright%20Data%2C%20Claude%20AI%20%26%20Email%20Outreach-4774)
 - [Discover & Enrich Decision-Makers with Apollo and Human Verification-3830](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Discover%20%26%20Enrich%20Decision-Makers%20with%20Apollo%20and%20Human%20Verification-3830)
 - [Discover & Generate Leads from Social Engagement using Trigify, Google Sheets, and Slack-6378](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Discover%20%26%20Generate%20Leads%20from%20Social%20Engagement%20using%20Trigify%2C%20Google%20Sheets%2C%20and%20Slack-6378)
+- [Discover and enrich competitor clients with PredictLeads and Google Sheets-14097](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Discover%20and%20enrich%20competitor%20clients%20with%20PredictLeads%20and%20Google%20Sheets-14097)
 - [Discover Article URLs from Any Website with GPT-5-mini and Google Sheets-11211](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Discover%20Article%20URLs%20from%20Any%20Website%20with%20GPT-5-mini%20and%20Google%20Sheets-11211)
 - [Discover Business Ideas from HackerNews Posts with GPT-4.1 Analysis and Google Sheets-3877](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Discover%20Business%20Ideas%20from%20HackerNews%20Posts%20with%20GPT-4.1%20Analysis%20and%20Google%20Sheets-3877)
 - [Discover buying-intent leads on Twitter and Instagram with GPT-4o-mini and send summaries to Slack and Notion-12110](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Discover%20buying-intent%20leads%20on%20Twitter%20and%20Instagram%20with%20GPT-4o-mini%20and%20send%20summaries%20to%20Slack%20and%20Notion-12110)
@@ -4977,6 +4978,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Generate Weekly Grocery Lists in Notion with Automated Email Notifications-7427](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20Weekly%20Grocery%20Lists%20in%20Notion%20with%20Automated%20Email%20Notifications-7427)
 - [Generate Weekly Marketing Performance Reports with GPT-4o & Google Docs to Slack-9647](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20Weekly%20Marketing%20Performance%20Reports%20with%20GPT-4o%20%26%20Google%20Docs%20to%20Slack-9647)
 - [Generate Weekly Meta Ads Performance Reports with GPT-4 Insights and Slack Delivery-5386](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20Weekly%20Meta%20Ads%20Performance%20Reports%20with%20GPT-4%20Insights%20and%20Slack%20Delivery-5386)
+- [Generate weekly Seed & Series A scouting reports with PredictLeads and OpenAI-14102](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20weekly%20Seed%20%26%20Series%20A%20scouting%20reports%20with%20PredictLeads%20and%20OpenAI-14102)
 - [Generate weekly supply chain OTIF reports and AI analysis with Notion and GPT-4o-13944](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20weekly%20supply%20chain%20OTIF%20reports%20and%20AI%20analysis%20with%20Notion%20and%20GPT-4o-13944)
 - [Generate Weekly Workflow Analytics Reports with n8n API & Email Delivery-10226](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20Weekly%20Workflow%20Analytics%20Reports%20with%20n8n%20API%20%26%20Email%20Delivery-10226)
 - [Generate workflow documentation and node names with GPT‑4.1‑mini-13768](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Generate%20workflow%20documentation%20and%20node%20names%20with%20GPT%E2%80%914.1%E2%80%91mini-13768)
@@ -6833,6 +6835,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Send Severe Weather Alerts from Visual Crossing to Telegram-10285](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20Severe%20Weather%20Alerts%20from%20Visual%20Crossing%20to%20Telegram-10285)
 - [Send severity-based error alerts using Telegram, email and Google Sheets-12890](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20severity-based%20error%20alerts%20using%20Telegram%2C%20email%20and%20Google%20Sheets-12890)
 - [Send Shopify new product announcements via WhatsApp using Google Sheets and GPT-4.1 mini-13415](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20Shopify%20new%20product%20announcements%20via%20WhatsApp%20using%20Google%20Sheets%20and%20GPT-4.1%20mini-13415)
+- [Send Shopify order and customer updates to WhatsApp via WOZTELL-13640](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20Shopify%20order%20and%20customer%20updates%20to%20WhatsApp%20via%20WOZTELL-13640)
 - [Send Shopify order confirmations via WhatsApp using MoltFlow-13478](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20Shopify%20order%20confirmations%20via%20WhatsApp%20using%20MoltFlow-13478)
 - [Send Shopify shipping tracking WhatsApp notifications with full tracking info-12078](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20Shopify%20shipping%20tracking%20WhatsApp%20notifications%20with%20full%20tracking%20info-12078)
 - [Send Slack Alerts for AWS IAM Access Keys Older Than 365 Days-7501](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20Slack%20Alerts%20for%20AWS%20IAM%20Access%20Keys%20Older%20Than%20365%20Days-7501)
