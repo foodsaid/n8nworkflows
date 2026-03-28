@@ -79,7 +79,7 @@ Each workflow folder contains **exactly 4 files**:
 
 
 
-## 📚 Workflows Summary (8158 workflows)
+## 📚 Workflows Summary (8161 workflows)
 
 - [ AI Client Onboarding Agent: Auto Welcome Email Generator-4448](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Client%20Onboarding%20Agent%3A%20Auto%20Welcome%20Email%20Generator-4448)
 - [ AI Data Analyst Agent for Spreadsheets with NocoDB-2653](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Data%20Analyst%20Agent%20for%20Spreadsheets%20with%20NocoDB-2653)
@@ -5054,6 +5054,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Get a daily financial news digest on Telegram with Mistral and RSS feeds-14172](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Get%20a%20daily%20financial%20news%20digest%20on%20Telegram%20with%20Mistral%20and%20RSS%20feeds-14172)
 - [Get actionable Gmail alerts on Telegram with OpenAI-13766](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Get%20actionable%20Gmail%20alerts%20on%20Telegram%20with%20OpenAI-13766)
 - [Get AI crypto price analysis via Telegram using GPT-4o-mini and TwelveData-12552](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Get%20AI%20crypto%20price%20analysis%20via%20Telegram%20using%20GPT-4o-mini%20and%20TwelveData-12552)
+- [Get AI insights from Databox in Slack using OpenAI-14322](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Get%20AI%20insights%20from%20Databox%20in%20Slack%20using%20OpenAI-14322)
 - [Get AI meeting briefs from Google Calendar with SerpAPI, Azure OpenAI and Slack-13519](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Get%20AI%20meeting%20briefs%20from%20Google%20Calendar%20with%20SerpAPI%2C%20Azure%20OpenAI%20and%20Slack-13519)
 - [Get Airtable data via AI and Obsidian Notes-2615](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Get%20Airtable%20data%20via%20AI%20and%20Obsidian%20Notes-2615)
 - [Get all contacts from Keap-553](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Get%20all%20contacts%20from%20Keap-553)
@@ -6778,6 +6779,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Send 24-hour Hacker News trends to Telegram with OpenRouter AI translation-12748](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%2024-hour%20Hacker%20News%20trends%20to%20Telegram%20with%20OpenRouter%20AI%20translation-12748)
 - [Send a daily email summary of new Airtable contacts via Gmail-13456](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20a%20daily%20email%20summary%20of%20new%20Airtable%20contacts%20via%20Gmail-13456)
 - [Send a daily media briefing email with GPT-4.1-mini, NewsAPI, Gmail and Google Sheets-13181](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20a%20daily%20media%20briefing%20email%20with%20GPT-4.1-mini%2C%20NewsAPI%2C%20Gmail%20and%20Google%20Sheets-13181)
+- [Send a daily paid acquisition and website intelligence report with Databox, GPT-4o and Gmail-14323](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20a%20daily%20paid%20acquisition%20and%20website%20intelligence%20report%20with%20Databox%2C%20GPT-4o%20and%20Gmail-14323)
 - [Send a daily sales report to WhatsApp from Google Sheets with MoltFlow-13486](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20a%20daily%20sales%20report%20to%20WhatsApp%20from%20Google%20Sheets%20with%20MoltFlow-13486)
 - [Send a daily Shopify order report with Streamline Connector and Gmail-14228](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20a%20daily%20Shopify%20order%20report%20with%20Streamline%20Connector%20and%20Gmail-14228)
 - [Send a daily stock movers and news email digest via Google Sheets, EODHD and Gmail-14297](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20a%20daily%20stock%20movers%20and%20news%20email%20digest%20via%20Google%20Sheets%2C%20EODHD%20and%20Gmail-14297)
@@ -6949,6 +6951,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Send weather alerts to your mobile phone with OpenWeatherMap and SIGNL4-966](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20weather%20alerts%20to%20your%20mobile%20phone%20with%20OpenWeatherMap%20and%20SIGNL4-966)
 - [Send Webflow form data to Google Sheets-2555](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20Webflow%20form%20data%20to%20Google%20Sheets-2555)
 - [Send weekly AI summaries of Google Sheets data via Gmail using OpenAI-13404](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20weekly%20AI%20summaries%20of%20Google%20Sheets%20data%20via%20Gmail%20using%20OpenAI-13404)
+- [Send weekly Databox paid ads performance reports to Slack and email-14321](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20weekly%20Databox%20paid%20ads%20performance%20reports%20to%20Slack%20and%20email-14321)
 - [Send Weekly Engagement Stats & Raffle Updates via WhatsApp using Airtable-5688](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20Weekly%20Engagement%20Stats%20%26%20Raffle%20Updates%20via%20WhatsApp%20using%20Airtable-5688)
 - [Send weekly GA4 WoW email reports with Gemini AI executive summary-13993](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20weekly%20GA4%20WoW%20email%20reports%20with%20Gemini%20AI%20executive%20summary-13993)
 - [Send weekly GitHub digest with releases, commits and trending repos via Gmail-13552](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Send%20weekly%20GitHub%20digest%20with%20releases%2C%20commits%20and%20trending%20repos%20via%20Gmail-13552)
